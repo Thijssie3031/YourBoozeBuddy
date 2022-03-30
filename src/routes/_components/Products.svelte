@@ -1,5 +1,6 @@
 <script>
   import hertog from '$lib/assets/hertog.jpg'
+  <!-- import liquor from '$lib/assets/liquor.jpg' -->
 </script>
 
 <div class="container pt-5 pb-5">
